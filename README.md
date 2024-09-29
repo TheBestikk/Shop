@@ -1,8 +1,8 @@
 # Flaves shop
 Hi my name is Kirill👋 I am interested in Front-end💻 This site has no commercial purpose I created it to gain experience and also to consolidate knowledge link to GIthub pages is in the description.
-## Authors project
+## Author project
 + Thebestikk([Kirill Zakharov](https://github.com/TheBestikk))
-## Tools and Language
+## Tools and Languages
 [![Figma](https://img.shields.io/badge/figma-o?style=for-the-badge&logo=Figma&logoColor=white)]()
 [![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css](https://img.shields.io/badge/css-1DA1F2?style=for-the-badge&logo=css3&logoColor=white)]()
