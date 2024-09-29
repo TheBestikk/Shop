@@ -7,7 +7,7 @@ Hi my name is Kirill👋 I am interested in Front-end💻 This site has no comme
 [![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css](https://img.shields.io/badge/css-1DA1F2?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Visual studio code](https://img.shields.io/badge/vs_code-1DA1F2?style=for-the-badge&logo=VScode&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://twwiter.com/)
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)]()
 ## Roadmap
 + close inspection of the __figma__ layout
 + add files structure
