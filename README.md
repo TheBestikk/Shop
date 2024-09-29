@@ -20,7 +20,7 @@ Hi my name is Kirill👋 I am interested in Front-end💻 This site has no comme
 + started writing styles the markup
 + end writing the markup
 ## Screenshoots layout
-![web-site](readme.png)
-![Web=site](readme-2.png)
-![web-site](readme-3.png)
-![web-site](readme-4.png)
+![web-site](Images/readme.png)
+![Web=site](Images/readme-2.png)
+![web-site](Images/readme-3.png)
+![web-site](Images/readme-4.png)
