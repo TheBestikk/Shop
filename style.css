@@ -191,7 +191,7 @@ h1,h2,h3,p,ul{
 .footer-list{
     line-height: 2;
 }
-.footer-item, .footer-address, .footer-title, footer-link{
+.footer-item, .footer-address, .footer-title, .footer-link{
     font-weight: 400;
     color: #000;
 }
