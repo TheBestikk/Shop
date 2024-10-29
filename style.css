@@ -42,6 +42,9 @@ h1,h2,h3,p,ul{
     text-transform: capitalize;
     color: #707070
 }
+.header-link:hover{
+    border-bottom: 2px solid #000;
+}
 .header-logo-link{
     align-items: center;
 }
@@ -194,4 +197,12 @@ h1,h2,h3,p,ul{
 .footer-item, .footer-address, .footer-title, .footer-link{
     font-weight: 400;
     color: #000;
+}
+
+.footer-link:hover{
+    border-bottom: 2px solid #707070;
+}
+
+.footer-address{
+    font-style: normal;
 }
