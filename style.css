@@ -13,7 +13,7 @@ ul{
 a{
     text-decoration: none;
 }
-h1,h2,h3,p,ul{
+h1,h2,h3,p,ul,a{
     padding: 0px;
     margin: 0px;
 }
@@ -41,6 +41,9 @@ h1,h2,h3,p,ul{
     font-weight: 500;
     text-transform: capitalize;
     color: #707070
+}
+.header-link{
+    text-transform: capitalize;
 }
 .header-link:hover{
     border-bottom: 2px solid #000;
@@ -77,6 +80,9 @@ h1,h2,h3,p,ul{
     padding: 18px 70px;
     border-radius: 40px;
 }
+.banner-link:hover{
+    font-weight: 600;
+}
 
 /* flaves */
 
@@ -93,9 +99,6 @@ h1,h2,h3,p,ul{
 }
 .flave-text{
     margin-bottom: 50px;
-}
-.flave-title, .flave-text{
-    padding-left: 45px;
 }
 .flave-list{
     display: flex;
@@ -129,9 +132,6 @@ h1,h2,h3,p,ul{
 }
 .subs-text{
     margin-bottom: 50px;
-}
-.subs-title, .subs-text{
-    padding-left: 45px;
 }
 .subs-list{
     display: flex;
@@ -187,9 +187,6 @@ h1,h2,h3,p,ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-.footer-wrap{
-    list-style: none;
 }
 .footer-list{
     line-height: 2;
